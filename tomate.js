@@ -1,3 +1,5 @@
-console.log('el tomate es una VERDURA, según la RAE!!!');
+/* Eric El tomate es una fruta como agregas este archivo? */
 
-console.log('REFERENCIA: El tomate es una de las hortalizas más consumidas a nivel mundial, por lo que existen muchos tipos de variedades, cada una de las cuales satisface una demanda en particular')
+let frutas = ['tomate']
+
+console.log(frutas[0]);
